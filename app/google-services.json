@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "309857455715",
+    "firebase_url": "https://laporjalan-8bf2a.firebaseio.com",
+    "project_id": "laporjalan-8bf2a",
+    "storage_bucket": "laporjalan-8bf2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309857455715:android:90cfe78f861f5498",
+        "android_client_info": {
+          "package_name": "app.mobile.fadiel.laporjalan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309857455715-ce88eeqss2efghqi11qbscjf7pft43uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5w9Ty489uZS-YwRnmrXYG_WifLwtrhY8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
